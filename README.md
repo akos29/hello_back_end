@@ -28,7 +28,7 @@
 **[Hello rails back-end]** Is an app that fetches and displays random greetings.
 
 ### API <a name="api"></a>
-- This app consumes this [API](https://github.com/akos29/hello_back_end.git)
+- This API is consumed by this [Front-end implementation](https://github.com/akos29/hello_front_end.git)
 
 # 🛠 Built With <a name="built-with"></a>
 
