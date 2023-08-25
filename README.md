@@ -3,25 +3,22 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [API](#api)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
-
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello rails backend] <a name="about-project"></a>
@@ -31,14 +28,17 @@
 ### API <a name="api"></a>
 - This API is consumed by this [Front-end implementation](https://github.com/akos29/hello_front_end.git)
 
-## 🛠 Built With <a name="built-with"></a>
+# 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">JavaScript</a></li>
+    <li><a href="#">React js</a></li>
+     <li><a href="#">Readux js</a></li>
   </ul>
 </details>
 
@@ -52,7 +52,7 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">No database build yet</a></li>
   </ul>
 </details>
 
@@ -72,8 +72,8 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
 To get a local copy up and running, follow these steps.
+
 
 ### Prerequisites
 
@@ -121,9 +121,6 @@ Example command:
 To run the project, execute the following command:
 
 
-
-```sh
-  rails server
 ```
 -
 
@@ -150,7 +147,6 @@ Example:
 ```sh
 
 ```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -179,7 +175,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/akos29/hello_front_end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
