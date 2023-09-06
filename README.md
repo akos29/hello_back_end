@@ -1,5 +1,3 @@
-# Hello rails back-end
-
 <a name="readme-top"></a>
 
 # 📗 Table of Contents
@@ -23,9 +21,9 @@
 - [📝 License](#license)
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello rails back-end] <a name="about-project"></a>
+# 📖 [Hello rails backend] <a name="about-project"></a>
 
-**[Hello rails back-end]** Is an app that fetches and displays random greetings.
+>Hello rails backend Is an api that generates random greetings..
 
 ### API <a name="api"></a>
 - This API is consumed by this [Front-end implementation](https://github.com/akos29/hello_front_end.git)
@@ -47,7 +45,7 @@
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="#">No Server build yet</a></li>
+    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
   </ul>
 </details>
 
@@ -62,7 +60,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Fetch random greetings]**
+
+- **[Display an interesting greetings each time a user access it]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,49 +79,73 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Install Ruby
-- Install Rails
-- Install Postgresql
+
+Example command:
+
+```sh
+  install ruby
+```
+```sh
+  install rails
+```
+```sh
+  install Postgresql
+```
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+```sh
+  cd my-folder
+  git clone https://github.com/akos29/hello_back_end
 ```
-  cd hello-rails-backend
-  git clone https://github.com/akos29/hello_back_end.git
-```
+
 
 ### Install
 
 Install this project with:
 
+
+Example command:
+
+```sh
+  cd my-project
+  bundle install
 ```
-  cd hello-rails-backend
-  bundle install && npm install
-```
+-
 
 ### Usage
 
 To run the project, execute the following command:
 
-```
-  yarn build
-```
 
 ```
-  rails s
-```
+-
 
 ### Run tests
 
 To run tests, run the following command:
 
+```sh
+   rubocop --color
 ```
-  rubocop --color
+
+```sh
+  rspec .
 ```
-```
-  rspec
+-
+
+<!-- ### Deployment
+
+You can deploy this project using: -->
+
+<!--
+Example:
+
+```sh
+
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,14 +159,14 @@ To run tests, run the following command:
 - GitHub: [@akos29](https://github.com/akos29)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kibrewossen-y-mekasha/)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Greetings for multiple languages]**
-
+- [ ] **Greetings for multiple languages**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
@@ -157,17 +183,32 @@ Feel free to check the [issues page](https://github.com/akos29/hello_front_end/i
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please show support by staring ⭐️.
+ If you like this project please show support by staring ⭐️.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-* I am grateful for microverse for the opprtunity to enroll in their curriculum.
+  I appreciate Microverse for giving me the opportunity to advance my education and for providing an atmosphere for programmers from many countries to cooperate.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
+<!-- 
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+
+> Add at least 2 questions new developers would ask when they decide to use your project.
+
+- **[Question_1]**
+
+  - [Answer_1]
+
+- **[Question_2]**
+
+  - [Answer_2]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
